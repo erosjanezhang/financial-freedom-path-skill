@@ -1,0 +1,4 @@
+interface:
+  display_name: "财务自由之路"
+  short_description: "把储蓄、还债、增收、目标与长期投资转化为清晰可执行的行动计划"
+  default_prompt: "使用 $financial-freedom-path，帮我制定下一阶段的财务行动计划。"
